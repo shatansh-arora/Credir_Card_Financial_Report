@@ -64,10 +64,15 @@ Week-over-week growth fluctuations indicate seasonal or behavioral trends.
 🚀 Actionable Recommendations
 
 Focus marketing efforts on high-income & mid-age segments (40–60).
+
 Promote premium cards (Gold/Platinum) to increase revenue per user.
+
 Encourage digital transactions (chip/online) for better tracking & security.
+
 Target underperforming regions with localized campaigns.
+
 Optimize offers based on spending categories (Bills, Entertainment, Fuel).
+
 🛠️ Tools & Technologies
 
 Power BI → Dashboarding & visualization
