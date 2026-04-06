@@ -1,4 +1,4 @@
-# Credir_Card_Financial_Report
+# Credit_Card_Financial_Report
 Power BI Dashboard
 
 📊 Credit Card Analytics Dashboard (Power BI)
@@ -12,10 +12,15 @@ The goal is to transform raw transactional and customer data into actionable bus
 🎯 Objectives
 
 Analyze revenue distribution across customer segments
+
 Track transaction trends over time (weekly, quarterly)
+
 Understand impact of demographics (age, gender, education, job)
+
 Identify high-value customers and segments
+
 Evaluate spending behavior across categories and card types
+
 Build a scalable data model using SQL + Power BI
 
 ⚙️ Project Workflow
@@ -55,10 +60,15 @@ Created dynamic measures for business analysis, including:
 🔍 Key Insights
 
 Blue card category dominates overall revenue contribution.
+
 Swipe transactions are significantly higher than chip/online usage.
+
 Customers aged 40–60 contribute the highest revenue.
+
 High-income groups drive majority of revenue.
+
 Certain states consistently outperform others in transaction volume.
+
 Week-over-week growth fluctuations indicate seasonal or behavioral trends.
 
 🚀 Actionable Recommendations
