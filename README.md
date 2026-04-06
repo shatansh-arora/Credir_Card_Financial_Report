@@ -51,3 +51,28 @@ Created dynamic measures for business analysis, including:
 *Customer segmentation metrics
 
 *Aggregations by category, region, and demographics
+
+🔍 Key Insights
+
+Blue card category dominates overall revenue contribution.
+Swipe transactions are significantly higher than chip/online usage.
+Customers aged 40–60 contribute the highest revenue.
+High-income groups drive majority of revenue.
+Certain states consistently outperform others in transaction volume.
+Week-over-week growth fluctuations indicate seasonal or behavioral trends.
+
+🚀 Actionable Recommendations
+
+Focus marketing efforts on high-income & mid-age segments (40–60).
+Promote premium cards (Gold/Platinum) to increase revenue per user.
+Encourage digital transactions (chip/online) for better tracking & security.
+Target underperforming regions with localized campaigns.
+Optimize offers based on spending categories (Bills, Entertainment, Fuel).
+🛠️ Tools & Technologies
+
+Power BI → Dashboarding & visualization
+SQL → Data modeling & table creation
+DAX → Business logic & calculations
+CSV Data Sources → Raw dataset
+
+
