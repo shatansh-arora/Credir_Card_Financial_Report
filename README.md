@@ -25,23 +25,35 @@ Build a scalable data model using SQL + Power BI
 
 ⚙️ Project Workflow
 
-1. Data Collection & Preparation
+1. Data Collection & Preparation:
+
 Imported raw data from CSV files
+
 Created structured tables using SQL
+
 Established relationships between:
+
 Customer data
+
 Transaction data
+
 Time/date tables
 
-3. Data Modeling
+2. Data Modeling:
+   
 Connected SQL database to Power BI
+
 Built a relational data model
+
 Applied:
+
 Star schema principles
+
 Proper key relationships
+
 Optimized table structure for performance
 
-4. DAX Measures
+3. DAX Measures
 
 Created dynamic measures for business analysis, including:
 
