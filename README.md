@@ -40,9 +40,9 @@ Optimized table structure for performance
 
 Created dynamic measures for business analysis, including:
 
-Total Revenue
-Transaction Amount
-Interest Earned
-Week-over-week growth (WoW %)
-Customer segmentation metrics
-Aggregations by category, region, and demographics
+*Total Revenue
+*Transaction Amount
+*Interest Earned
+*Week-over-week growth (WoW %)
+*Customer segmentation metrics
+*Aggregations by category, region, and demographics
