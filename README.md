@@ -71,8 +71,11 @@ Optimize offers based on spending categories (Bills, Entertainment, Fuel).
 🛠️ Tools & Technologies
 
 Power BI → Dashboarding & visualization
+
 SQL → Data modeling & table creation
+
 DAX → Business logic & calculations
+
 CSV Data Sources → Raw dataset
 
 
